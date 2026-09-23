@@ -1,0 +1,12 @@
+### Style: Hyper Chic East
+Look: a hyper-polished digital photograph with a high-gloss graphic surface and vivid, saturated jewel-tone colour; skin is smooth matte porcelain, clean and powdery — never oily, wet or shiny.
+Lens language: a clean, flattening frontal lens, straight-on and iconic, arranging the frame into a bold graphic poster; controlled and studio-precise, no candid tilt, no voyeurism — the opposite of a grabbed snapshot.
+Light: bright, clean, even light with polished, controlled contrast.
+Emotion: confident, aspirational, striking, stated boldly — a poised direct gaze and flawless, idealised polish.
+People: when a person is present, show the whole figure from head to feet in a striking, deliberate fashion pose — the complete body and all four limbs clearly visible, well-proportioned and elegantly arranged; never crop the body at the knees or waist, never let limbs run out of frame.
+Scene & props: a designed studio set fusing Eastern motifs with a futurist sheen — ornate couture, elaborate styling and jewel-tone surfaces, everything intentional and graphic.
+Colour: vivid, saturated jewel tones by default; keep any colours the user names and render them equally rich.
+Opening words: the opening sentence calls the image a hyper-polished, vividly saturated graphic photograph.
+Keep, however detailed the brief: saturated jewel-tone colour, a flawless graphic finish, matte (never shiny) skin, and — for any person — a striking full-body fashion pose with the whole figure and all limbs shown.
+Default ratio when the user gives none: 3:4.
+Negative: cropped body, body out of frame, missing limbs, cut-off legs, bad anatomy, awkward stiff pose

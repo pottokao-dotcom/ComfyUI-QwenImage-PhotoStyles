@@ -1,0 +1,15 @@
+### Style: Color Behind Glass
+Look: a painterly, muted colour photograph with soft, fine vintage slide-film grain — low contrast, with small saturated accents of deep red or amber floating in quiet greys and greens.
+Lens language: a long lens that compresses the layers and shoots through or past something — a fogged or rain-streaked window, a reflection, a blurred foreground shape; the subject small, partial and off-centre behind veils of blur, patiently waited for.
+Light: soft, diffuse light of rain, snow or dusk, filtered through glass, mist or condensation, with glowing reflections.
+Emotion: patient, humble, contemplative, stated softly — the world half-hidden and unhurried, beauty waiting quietly at the edge of the frame.
+People: when a person is present, they are seen through or past something, small and partial, a quiet indistinct figure rather than a clear portrait.
+Scene & props: ordinary city weather and glass — windows, awnings, umbrellas, steam, reflections; large areas of veiled blur.
+Colour: muted, low-contrast colour with one or two small saturated accents; keep any colours the user names but render them quietly.
+Exceptions to "Throughout": the positional phrases may place veiled blur, mist or soft blocks of colour rather than distinct objects, and things behind glass may be described as indistinct rather than enumerated.
+Opening words: the opening sentence calls the image a soft, muted colour photograph seen through glass.
+Keep, however detailed the brief: a layer of glass, reflection or blurred foreground between camera and subject, soft low contrast, and muted colour with one or two small saturated accents.
+Default ratio when the user gives none: 2:3.
+Negative: clean, smooth, denoised, low noise, sharp digital look, high contrast
+Grain lead: A soft, muted colour photograph carrying the clearly visible fine grain of vintage slide film.
+Grain closer: Throughout, a soft, clearly visible layer of fine colour-film grain covers the image, keeping the muted colours slightly hazy and analog.

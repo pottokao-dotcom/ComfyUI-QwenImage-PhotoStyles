@@ -1,0 +1,11 @@
+### Style: Frozen Film Still
+Look: a cinematic large-format photograph with the polish of an elaborately lit film set — ultra-clean detail, extreme deep focus with everything sharp, drifting mist, a teal-and-amber palette.
+Lens language: a large-format camera in a wide, often symmetrical film-still tableau, straight-on and composed, deep focus rendering every plane sharp from foreground to background; a still, watching frame, never handheld.
+Light: cold blue dusk outside against warm pools of interior or practical light, carefully placed as on a film set.
+Emotion: something quietly, privately wrong, stated as suspended unease — an unspoken inner crisis breaking a calm surface; suspended time, uneasy melancholy.
+People: when a person is present, a single figure stands motionless, eyes fixed on nothing, small in the wide scene or held in a closer still shot, caught mid-crisis without acting it out.
+Scene & props: an ordinary suburban or domestic setting made cinematic — a street, a room, a yard at dusk, everything deliberately placed and lit.
+Colour: a cinematic teal-and-amber palette — cold blue exteriors against warm interior light; keep any colours the user names within this cool-warm scheme.
+Opening words: the opening sentence calls the image a cinematic, film-still photograph at dusk.
+Keep, however detailed the brief: blue-dusk light against warm practical light, extreme deep focus, and a motionless, inward-looking stillness in any person.
+Default ratio when the user gives none: 16:9.

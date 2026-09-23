@@ -1,0 +1,56 @@
+{
+  "0": {
+    "class_type": "QwenImagePhotoStylePrompt",
+    "inputs": {
+      "prompt": "a person by a rain-streaked window at night",
+      "style": "Black Fury",
+      "endpoint": "http://127.0.0.1:8207",
+      "seed": 0,
+      "temperature": 0.3
+    }
+  },
+  "1": {
+    "class_type": "UNETLoader",
+    "inputs": { "unet_name": "qwen_image_2.1.safetensors", "weight_dtype": "default" }
+  },
+  "2": {
+    "class_type": "CLIPLoader",
+    "inputs": { "clip_name": "qwen3vl_8b.safetensors", "type": "qwen_image", "device": "default" }
+  },
+  "3": {
+    "class_type": "VAELoader",
+    "inputs": { "vae_name": "qwen_image_2.1_vae.safetensors" }
+  },
+  "4": {
+    "class_type": "TextEncodeQwenImage21",
+    "inputs": { "clip": ["2", 0], "prompt": ["0", 0], "negative_prompt": ["0", 1], "resolution": 1024 }
+  },
+  "5": {
+    "class_type": "EmptyLatentImage",
+    "inputs": { "width": ["0", 2], "height": ["0", 3], "batch_size": 1 }
+  },
+  "6": {
+    "class_type": "KSamplerAdvanced",
+    "inputs": {
+      "model": ["1", 0], "add_noise": "enable", "noise_seed": 42, "steps": 25, "cfg": 1.0,
+      "sampler_name": "euler", "scheduler": "simple", "positive": ["4", 0], "negative": ["4", 1],
+      "latent_image": ["5", 0], "start_at_step": 0, "end_at_step": 15, "return_with_leftover_noise": "enable"
+    }
+  },
+  "7": {
+    "class_type": "KSamplerAdvanced",
+    "inputs": {
+      "model": ["1", 0], "add_noise": "disable", "noise_seed": 42, "steps": 25, "cfg": 3.0,
+      "sampler_name": "euler", "scheduler": "simple", "positive": ["4", 0], "negative": ["4", 1],
+      "latent_image": ["6", 0], "start_at_step": 15, "end_at_step": 25, "return_with_leftover_noise": "disable"
+    }
+  },
+  "8": {
+    "class_type": "VAEDecode",
+    "inputs": { "samples": ["7", 0], "vae": ["3", 0] }
+  },
+  "9": {
+    "class_type": "SaveImage",
+    "inputs": { "images": ["8", 0], "filename_prefix": "photostyle" }
+  }
+}

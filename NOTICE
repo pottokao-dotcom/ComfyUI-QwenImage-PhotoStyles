@@ -1,0 +1,19 @@
+ComfyUI-QwenImage-PhotoStyles
+Copyright (c) 2026 pottokao
+
+This product includes software developed by pottokao (MIT License, see LICENSE).
+
+----------------------------------------------------------------------
+Bundled system prompt: style_sp_plus.txt
+----------------------------------------------------------------------
+`style_sp_plus.txt` is an adaptation of Qwen's official Qwen-Image-2.1-PE-T2I
+system prompt. It is a derivative of that prompt and remains subject to the
+Qwen Research License (research / non-commercial terms as published by Qwen).
+
+  Original: Qwen/Qwen-Image-2.1-PE-T2I  (system_prompt.txt)
+  Upstream license: Qwen Research License
+
+The node code (__init__.py), the style sheets (styles/*.txt), presets.json and
+the documentation are the author's own work and are released under the MIT
+License. If you intend to use this node commercially, review the Qwen Research
+License terms that apply to the bundled system prompt.

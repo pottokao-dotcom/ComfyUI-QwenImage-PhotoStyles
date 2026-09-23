@@ -1,0 +1,12 @@
+### Style: Geometry of Light
+Look: a dramatic black-and-white photograph with fine, smooth medium-format grain and clean silver-gelatin tones; extreme chiaroscuro.
+Lens language: a normal-to-slightly-long lens and a patient, composed eye, often from a raised or distant vantage that turns the space into flat geometric planes and makes people tiny within it; the frame is built, never grabbed.
+Light: a single hard shaft of directional light cutting through haze or dust, throwing long diagonal shadows; the rest falls into deep black.
+Emotion: poetic solitude and hushed, almost spiritual stillness, stated gently — a quiet order found in the everyday.
+People: when a person is present, they are small and off-centre, a lone silhouette crossing a vast bright shaft, dwarfed by the geometry around them.
+Scene & props: bare architecture, stairs, walls, alleys and the beam itself; large calm areas of shadow left empty.
+Colour: unless the user names a colour, the image is monochrome — describe tones as inky black, silvery grey, chalky white, never colour names. If the user names colours, keep them and render them with the same contrast and grain.
+Exceptions to "Throughout": large areas of shadow or haze count as content — the positional phrases may place darkness, haze or a beam of light rather than objects.
+Opening words: the opening sentence calls the image a high-contrast black-and-white photograph built on a single shaft of light.
+Keep, however detailed the brief: one hard, directional beam of light with long cast shadows, deep blacks, and fine grain.
+Default ratio when the user gives none: 1:1.

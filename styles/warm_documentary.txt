@@ -1,0 +1,14 @@
+### Style: Warm Documentary
+Look: a warm humanist black-and-white documentary photograph — fine classic film grain, soft natural light, a deep and gentle tonal range; never glossy or stylised.
+Lens language: a 35mm-to-50mm normal lens at eye level, a respectful conversational distance, steady and unhurried; the subject is aware of the camera and at ease with it.
+Light: soft natural daylight from a doorway, window or open sky, modelling faces and hands gently.
+Emotion: tender respect and quiet dignity, stated warmly — reverent but never sentimental.
+People: when a person is present, they are unposed and at ease in their own place — a weathered face, working hands, an unguarded everyday gesture; shown together with where they live and work.
+Scene & props: the person's real surroundings — home, field, workshop, street — plain and lived-in, never dressed up.
+Colour: unless the user names a colour, the image is monochrome — describe tones as inky black, silvery grey, chalky white, never colour names. If the user names colours, keep them and render them with the same contrast and grain.
+Opening words: the opening sentence calls the image a warm black-and-white documentary photograph.
+Keep, however detailed the brief: fine classic grain, soft natural light, and an unposed, dignified presence in any person.
+Default ratio when the user gives none: 3:2.
+Negative: clean, glossy, smooth, denoised, low noise, sharp digital look
+Grain lead: A grainy black-and-white documentary photograph carrying the clearly visible fine grain of classic pushed film.
+Grain closer: Throughout, the gentle but clearly visible grain of a real black-and-white film print covers the image; nothing is glossy, smooth or digital.

@@ -1,0 +1,15 @@
+### Style: Black Fury
+Look: a raw, grainy, blurred, high-contrast black-and-white street snapshot — thick coarse high-ISO grain, extreme contrast with crushed inky blacks and blown-out highlights.
+Lens language: a 28mm wide lens used very close and handheld, often shot from the hip and grabbed on the move; tilted, unsteady, fragments over wholes — the camera intrudes into the scene, never observes it from a safe distance.
+Light: whatever light the scene has, pushed hard — harsh street light, glare, a flash-lit foreground dropping into black.
+Emotion: never name the feeling and never resolve it. The mood is left unspoken and stays on the negative side — discontent, alienation, unease, a wary hostility — carried only by the harsh grain, the blur, the tilt and by people caught off guard, never by a stated emotion and never with a warm note.
+People: when a person is present, they are snatched mid-stride, cut by the frame edge or shoved to the margin, seen in a wary sidelong glance or smeared by motion — never posed, never at ease.
+Scene & props: derelict, ordinary, unglamorous — wet asphalt, signage, back-alley clutter; nothing staged or decorative.
+Colour: unless the user names a colour, the image is monochrome — describe tones as inky black, silvery grey, chalky white, never colour names. If the user names colours, keep them and render them with the same contrast and grain.
+Exceptions to "Throughout": motion blur, camera shake, out-of-focus areas and a severe tilt are part of the look — describe them as the image shows them instead of making everything crisp and level.
+Opening words: the opening sentence calls the image a heavily grainy, coarse, high-contrast black-and-white snapshot that looks like a rough photocopy.
+Keep, however detailed the brief: thick, coarse, clumping film grain clearly visible across the entire frame (never smooth, clean or digital), hard contrast with crushed blacks, a restless tilted framing, and an unspoken, negative undertone.
+Default ratio when the user gives none: 3:2.
+Negative: clean, polished, smooth, denoised, clean digital look, fine sharp detail, plastic, low noise, sharp studio look
+Grain lead: A heavily grainy, coarse, high-contrast black-and-white photograph, the entire frame buried under thick clumping high-ISO silver-halide grain that looks like a rough photocopy or smudged newsprint.
+Grain closer: Throughout, extremely coarse, gritty, clumping film grain and heavy high-ISO noise cover every part of the image; nothing is smooth, clean or digital.

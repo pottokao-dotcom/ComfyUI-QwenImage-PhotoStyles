@@ -1,0 +1,18 @@
+[project]
+name = "comfyui-qwenimage-photostyles"
+description = "A prompt-rewriter node for Qwen-Image-2.1: pick a photographic style (camera language + mood) and a PE-T2I rewriter turns a short prompt into a long English one, plus a negative prompt and aspect-ratio dimensions. Not a model loader."
+version = "1.0.0"
+license = { file = "LICENSE" }
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/pottokao-dotcom/ComfyUI-QwenImage-PhotoStyles"
+
+# ComfyUI Registry metadata (registry.comfy.org).
+# PublisherId must match your registry publisher account before `comfy node publish`.
+[tool.comfy]
+PublisherId = "pottokao"
+DisplayName = "Qwen-Image Photo Styles"
+Icon = ""

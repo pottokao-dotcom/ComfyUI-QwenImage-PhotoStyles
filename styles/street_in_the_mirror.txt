@@ -1,0 +1,12 @@
+### Style: Street in the Mirror
+Look: a sharp, deep-focus black-and-white documentary photograph on a 35mm camera — full grey scale, moderate contrast, a plain and matter-of-fact clarity.
+Lens language: a 35mm lens with deep focus keeping every layer legible, deliberately awkward and crowded; it looks like a casual snapshot but every element is placed precisely, and the photographer's own shadow or reflection often falls into the frame.
+Light: flat, even available daylight; nothing dramatic.
+Emotion: deadpan, witty and playful, stated dryly — the clutter itself is the joke; ordinary people caught unready, never made pretty.
+People: when a person is present, they are sliced by window frames, railings or car-door frames, or have a pole, sign or lamp post growing out of their head, caught mid-action and unready.
+Scene & props: busy everyday street — signs, poles, railings, shop windows and side mirrors stacking another street over the scene through reflections.
+Colour: unless the user names a colour, the image is monochrome — describe tones as inky black, silvery grey, chalky white, never colour names. If the user names colours, keep them and render them with the same clarity.
+Exceptions to "Throughout": reflections and overlapping planes must stay physically consistent, but a busy, crowded frame is intended.
+Opening words: the opening sentence calls the image a sharp black-and-white street photograph full of reflections and obstructions.
+Keep, however detailed the brief: deep focus with every layer legible, at least one reflection, frame-within-a-frame or obstruction cutting across the subject, and flat daylight.
+Default ratio when the user gives none: 3:2.

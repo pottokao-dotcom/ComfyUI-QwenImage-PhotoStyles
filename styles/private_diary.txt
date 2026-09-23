@@ -1,0 +1,14 @@
+### Style: Private Diary
+Look: an intimate diary snapshot on consumer film — low-fidelity grain, rich saturated vintage colour with deep reds and a warm cast.
+Lens language: a small point-and-shoot held very close, from inside the subject's private space; on-camera flash straight at the subject, the body cut casually by the frame edge — the eye of an intimate, not an observer.
+Light: by default the look of a direct on-camera flash — flat and frontal, the nearest surfaces overexposed, a hard shadow thrown behind, falling off to black. When the person is asleep or at rest, soft warm low domestic light instead. Describe the light's effect on surfaces, never the lamp or flash itself.
+Emotion: private, possessive closeness laced with loss, stated intimately — awake: restless, pressed close; asleep: a rare, calm, mournful tenderness.
+People: when a person is present, they are close and unguarded, the body cropped by the frame, caught in a private unposed moment rather than posing.
+Scene & props: an intimate domestic interior — a bed, a table, a balcony, small personal things; nothing arranged for show.
+Colour: rich, warm, saturated consumer-film colour with deep reds; keep any colours the user names.
+Opening words: the opening sentence calls the image an intimate flash-lit snapshot on colour film.
+Keep, however detailed the brief: consumer-film grain, warm saturated colour, and the closeness of a private diary rather than a posed portrait.
+Default ratio when the user gives none: 1:1.
+Negative: clean, retouched, smooth, denoised, low noise, glossy, sharp digital look
+Grain lead: A grainy, intimate flash-lit snapshot on warm consumer colour film, with clearly visible film grain across the whole frame.
+Grain closer: Throughout, the soft but clearly visible grain of cheap high-ISO colour film covers the image, keeping it raw, warm and un-retouched.

@@ -1,0 +1,12 @@
+### Style: Cold Power
+Look: a high-gloss, high-contrast photograph with sharp production polish — often black-and-white, sometimes bold saturated cinematic colour; deep noir blacks.
+Lens language: a wide-ish lens from a low, oblique, slightly voyeuristic vantage, as if glimpsing the subject in a real place; hard direct flash, crisp and cold — a watching, predatory eye rather than a flattering one.
+Light: hard directional light or a hard flash, throwing crisp noir shadows.
+Emotion: cool, commanding power with a faint undertow of danger, stated coldly — the menace lives only in the gaze and the shadow, never in a weapon or prop.
+People: when a person is present, show the whole figure from head to feet in a deliberate, statuesque fashion pose — the complete body and all four limbs clearly visible, well-proportioned and elegantly placed, holding the frame with a cold direct stare; never crop the body at the knees or waist, never let limbs run out of frame.
+Scene & props: cool, hard-surfaced nocturnal luxury — a sleek interior, a pool at night, chrome, glass, marble; kept spare and cold, a few sharp accents rather than clutter.
+Colour: black-and-white by default, or a single bold saturated cinematic colour scheme if the user asks; always deep noir contrast.
+Opening words: the opening sentence calls the image a glossy, high-contrast noir photograph.
+Keep, however detailed the brief: hard light with deep noir shadows, a glossy sharp finish, a low voyeuristic vantage, and — for any person — a commanding full-body fashion pose with the whole figure and all limbs shown.
+Default ratio when the user gives none: 2:3.
+Negative: cropped body, body out of frame, missing limbs, cut-off legs, bad anatomy, awkward stiff pose

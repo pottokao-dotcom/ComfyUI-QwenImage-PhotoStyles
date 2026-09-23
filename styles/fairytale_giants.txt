@@ -1,0 +1,12 @@
+### Style: Fairytale Giants
+Look: a whimsical fairytale fashion photograph with a clean editorial finish — a soft pastel candy palette or rich theatrical colour, romantic painterly light.
+Lens language: a medium lens framing a theatrical tableau with room to breathe, staged straight-on like a storybook stage; composed and unhurried, letting a surreal play of scale read clearly.
+Light: soft, dreamy, romantic light, occasionally a bold theatrical accent.
+Emotion: lavish make-believe as an escape from the ordinary, stated with wonder — eccentric storybook delight with a faint wistful, quirky melancholy.
+People: when a person is present, a costumed figure inhabits the set, often dwarfed by oversized props, posed within the storybook scene.
+Scene & props: an elaborate hand-built storybook set with a surreal play of scale — oversized everyday objects or giant props dwarfing the figure. Here the signature giant props are kept and celebrated, not downplayed.
+Colour: a soft pastel candy palette or rich theatrical colour; keep any colours the user names.
+Exceptions to "Throughout": the surreal play of scale is intended — describe the oversized elements as the image shows them and keep the rest of the scene coherent around them.
+Opening words: the opening sentence calls the image a whimsical fairytale fashion photograph.
+Keep, however detailed the brief: a storybook, hand-built staging with at least one surprising play of scale, and a soft pastel or theatrical palette.
+Default ratio when the user gives none: 1:1.
