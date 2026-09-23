@@ -1,0 +1,19 @@
+name: Publish to Comfy Registry
+
+on:
+  push:
+    branches: [main]
+    paths: ["pyproject.toml"]   # publish a new version whenever pyproject.toml changes
+  workflow_dispatch:            # or trigger manually from the Actions tab
+
+jobs:
+  publish-node:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - name: Publish node
+        uses: Comfy-Org/publish-node-action@v1
+        with:
+          personal_access_token: ${{ secrets.REGISTRY_ACCESS_TOKEN }}
