@@ -281,17 +281,11 @@ If you want a self-quantized set to run the whole thing, here are 4-bit builds �
 NVIDIA (ComfyUI / vLLM) and **GGUF Q4** for Mac / low-VRAM (llama.cpp / ComfyUI-GGUF).
 ("Heretic" = an abliterated / decensored build.)
 
-| Component | NVFP4 · NVIDIA | GGUF Q4 · Mac |
+| Component | NVFP4 · NVIDIA (ComfyUI / vLLM) | GGUF Q4 · Mac (llama.cpp / ComfyUI-GGUF) |
 |---|---|---|
-| **PE-T2I rewriter** (this node calls) | [NVFP4](https://huggingface.co/pottokao/Qwen-Image-2.1-PE-T2I-Heretic-NVFP4) | [GGUF](https://huggingface.co/pottokao/Qwen-Image-2.1-PE-T2I-Heretic-GGUF) |
-| **DiT** (image model) | [NVFP4](https://huggingface.co/pottokao/Qwen-Image-2.1-DiT-NVFP4-ComfyUI) | [GGUF](https://huggingface.co/pottokao/Qwen-Image-2.1-DiT-GGUF) |
-| **Text encoder** (Qwen3-VL) | [NVFP4](https://huggingface.co/pottokao/Qwen-Image-2.1-Text-Encoder-Heretic-NVFP4) | [GGUF](https://huggingface.co/pottokao/Qwen-Image-2.1-Text-Encoder-Heretic-GGUF) |
-
-Direct links:
-
-- PE-T2I rewriter — NVFP4: https://huggingface.co/pottokao/Qwen-Image-2.1-PE-T2I-Heretic-NVFP4 · GGUF: https://huggingface.co/pottokao/Qwen-Image-2.1-PE-T2I-Heretic-GGUF
-- DiT — NVFP4: https://huggingface.co/pottokao/Qwen-Image-2.1-DiT-NVFP4-ComfyUI · GGUF: https://huggingface.co/pottokao/Qwen-Image-2.1-DiT-GGUF
-- Text encoder — NVFP4: https://huggingface.co/pottokao/Qwen-Image-2.1-Text-Encoder-Heretic-NVFP4 · GGUF: https://huggingface.co/pottokao/Qwen-Image-2.1-Text-Encoder-Heretic-GGUF
+| **PE-T2I rewriter** (this node calls) | [Qwen-Image-2.1-PE-T2I-Heretic-NVFP4](https://huggingface.co/pottokao/Qwen-Image-2.1-PE-T2I-Heretic-NVFP4) | [Qwen-Image-2.1-PE-T2I-Heretic-GGUF](https://huggingface.co/pottokao/Qwen-Image-2.1-PE-T2I-Heretic-GGUF) |
+| **DiT** (image model) | [Qwen-Image-2.1-DiT-NVFP4-ComfyUI](https://huggingface.co/pottokao/Qwen-Image-2.1-DiT-NVFP4-ComfyUI) | [Qwen-Image-2.1-DiT-GGUF](https://huggingface.co/pottokao/Qwen-Image-2.1-DiT-GGUF) |
+| **Text encoder** (Qwen3-VL) | [Qwen-Image-2.1-Text-Encoder-Heretic-NVFP4](https://huggingface.co/pottokao/Qwen-Image-2.1-Text-Encoder-Heretic-NVFP4) | [Qwen-Image-2.1-Text-Encoder-Heretic-GGUF](https://huggingface.co/pottokao/Qwen-Image-2.1-Text-Encoder-Heretic-GGUF) |
 
 The Qwen3-VL text-encoder **GGUF** needs this add-on in ComfyUI (fixes the 12288 shape error):
 https://github.com/pottokao-dotcom/ComfyUI-GGUF-Qwen3VL-TE
