@@ -287,8 +287,14 @@ NVIDIA (ComfyUI / vLLM) and **GGUF Q4** for Mac / low-VRAM (llama.cpp / ComfyUI-
 | **DiT** (image model) | [NVFP4](https://huggingface.co/pottokao/Qwen-Image-2.1-DiT-NVFP4-ComfyUI) | [GGUF](https://huggingface.co/pottokao/Qwen-Image-2.1-DiT-GGUF) |
 | **Text encoder** (Qwen3-VL) | [NVFP4](https://huggingface.co/pottokao/Qwen-Image-2.1-Text-Encoder-Heretic-NVFP4) | [GGUF](https://huggingface.co/pottokao/Qwen-Image-2.1-Text-Encoder-Heretic-GGUF) |
 
+Direct links:
+
+- PE-T2I rewriter — NVFP4: https://huggingface.co/pottokao/Qwen-Image-2.1-PE-T2I-Heretic-NVFP4 · GGUF: https://huggingface.co/pottokao/Qwen-Image-2.1-PE-T2I-Heretic-GGUF
+- DiT — NVFP4: https://huggingface.co/pottokao/Qwen-Image-2.1-DiT-NVFP4-ComfyUI · GGUF: https://huggingface.co/pottokao/Qwen-Image-2.1-DiT-GGUF
+- Text encoder — NVFP4: https://huggingface.co/pottokao/Qwen-Image-2.1-Text-Encoder-Heretic-NVFP4 · GGUF: https://huggingface.co/pottokao/Qwen-Image-2.1-Text-Encoder-Heretic-GGUF
+
 The Qwen3-VL text-encoder **GGUF** needs this add-on in ComfyUI (fixes the 12288 shape error):
-<https://github.com/pottokao-dotcom/ComfyUI-GGUF-Qwen3VL-TE>
+https://github.com/pottokao-dotcom/ComfyUI-GGUF-Qwen3VL-TE
 
 ## Example
 
