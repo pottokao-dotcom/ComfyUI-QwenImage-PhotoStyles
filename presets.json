@@ -1,289 +1,289 @@
 {
  "black_fury": [
   {
-   "name": "疏離",
+   "name": "Alienation",
    "motion": "still",
    "delta": "cold detached distance, empty alley, anonymous passerby, alienation"
   },
   {
-   "name": "躁動",
+   "name": "Frenzy",
    "motion": "motion",
    "delta": "restless aggressive motion blur, chaotic fragmented frame, urban frenzy"
   },
   {
-   "name": "淒涼",
+   "name": "Desolation",
    "motion": "still",
    "delta": "desolate bleak mood, a lone figure, decaying surroundings, melancholy"
   }
  ],
  "cold_power": [
   {
-   "name": "黑色魅惑",
+   "name": "Noir Allure",
    "motion": "still",
    "delta": "noir erotic glamour, cool transgressive tension, an undertow of cold danger in the gaze and shadow"
   },
   {
-   "name": "權力",
+   "name": "Power",
    "motion": "still",
    "delta": "dominant commanding power, control shadowed by danger"
   },
   {
-   "name": "夜的窺視",
+   "name": "Nocturnal Voyeur",
    "delta": "cold, voyeuristic nocturnal glamour, the figure glimpsed with detached menace",
    "motion": "still"
   }
  ],
  "color_behind_glass": [
   {
-   "name": "雨日",
+   "name": "Rainy Day",
    "motion": "still",
    "delta": "rain-streaked glass, reflections, muted melancholy"
   },
   {
-   "name": "雪日靜謐",
+   "name": "Snowy Hush",
    "motion": "still",
    "delta": "soft snow, quiet muffled stillness, pale warm light"
   },
   {
-   "name": "抽象色塊",
+   "name": "Abstract Colour",
    "motion": "still",
    "delta": "abstract painterly blocks of color, fragmented obstruction"
   }
  ],
  "corner_elegance": [
   {
-   "name": "優雅",
+   "name": "Elegance",
    "motion": "still",
    "delta": "refined timeless elegance, dignified distilled poise"
   },
   {
-   "name": "靜物",
+   "name": "Still Life",
    "motion": "still",
    "delta": "exquisite minimalist still life, precise tonal beauty"
   },
   {
-   "name": "肖像",
+   "name": "Portrait",
    "motion": "still",
    "delta": "the subject distilled to essential formal elegance"
   }
  ],
  "everyday_punchline": [
   {
-   "name": "日常喜劇",
+   "name": "Everyday Comedy",
    "motion": "still",
    "delta": "the absurd comedy of an ordinary moment caught at the perfect instant"
   },
   {
-   "name": "童趣",
+   "name": "Childlike",
    "motion": "still",
    "delta": "the unguarded funny charm of a child or animal"
   },
   {
-   "name": "街頭巧合",
+   "name": "Street Coincidence",
    "motion": "still",
    "delta": "an accidental absurd coincidence on the street, perfect comic timing"
   }
  ],
  "fairytale_giants": [
   {
-   "name": "童話奇幻",
+   "name": "Fairytale Fantasy",
    "motion": "still",
    "delta": "enchanted fairytale wonder, magical storybook set"
   },
   {
-   "name": "詭奇",
+   "name": "Uncanny",
    "motion": "still",
    "delta": "eccentric uncanny whimsy, surreal oddity"
   },
   {
-   "name": "夢幻粉彩",
+   "name": "Dreamy Pastel",
    "motion": "still",
    "delta": "soft dreamy pastel romance, delicate candy tones"
   }
  ],
  "frozen_film_still": [
   {
-   "name": "室內孤寂",
+   "name": "Indoor Solitude",
    "motion": "still",
    "delta": "lone figure by glowing window, interior isolation"
   },
   {
-   "name": "街道空寂",
+   "name": "Empty Street",
    "motion": "still",
    "delta": "empty dusk street, motionless solitude, drifting mist"
   },
   {
-   "name": "黃昏詭譎",
+   "name": "Eerie Dusk",
    "motion": "still",
    "delta": "uncanny twilight stillness, eerie quiet"
   }
  ],
  "geometry_of_light": [
   {
-   "name": "詩意靜謐",
+   "name": "Poetic Stillness",
    "motion": "still",
    "delta": "quiet poetic stillness, soft drifting haze, contemplative lone figure"
   },
   {
-   "name": "戲劇張力",
+   "name": "Dramatic Tension",
    "motion": "still",
    "delta": "intense dramatic light beam, bold geometric shadow, theatrical tension"
   },
   {
-   "name": "孤寂",
+   "name": "Solitude",
    "motion": "still",
    "delta": "isolated tiny figure dwarfed by vast dark architecture, lonely vastness"
   }
  ],
  "hyper_chic_east": [
   {
-   "name": "東方未來",
+   "name": "Eastern Futurism",
    "motion": "still",
    "delta": "fusion of traditional Chinese motifs with futurist glamour"
   },
   {
-   "name": "濃豔光澤",
+   "name": "Vivid Gloss",
    "motion": "still",
    "delta": "vivid saturated graphic color, high-gloss polished surface"
   },
   {
-   "name": "完美無瑕",
+   "name": "Flawless",
    "motion": "still",
    "delta": "flawless porcelain idealized digital beauty, iconic perfection"
   }
  ],
  "pale_light_moments": [
   {
-   "name": "通透",
+   "name": "Luminous",
    "motion": "still",
    "delta": "luminous translucent light, airy weightless brightness"
   },
   {
-   "name": "恬靜",
+   "name": "Serene",
    "motion": "still",
    "delta": "calm quiet tenderness, gentle everyday serenity"
   },
   {
-   "name": "生命微光",
+   "name": "Faint Glow of Life",
    "motion": "still",
    "delta": "fragile fleeting moment of life, soft poetic transience, a small wound glowing inside the tenderness"
   }
  ],
  "playful_film": [
   {
-   "name": "童趣",
+   "name": "Childlike",
    "motion": "still",
    "delta": "a child completely absorbed in play, funny unguarded expression"
   },
   {
-   "name": "青春",
+   "name": "Youth",
    "motion": "motion",
    "delta": "friends laughing mid-step, windblown, sunny film color"
   },
   {
-   "name": "家常",
+   "name": "Homely",
    "motion": "still",
    "delta": "an ordinary family moment, warm and a little comical"
   }
  ],
  "private_diary": [
   {
-   "name": "依偎",
+   "name": "Nestled Close",
    "motion": "still",
    "delta": "possessive tender closeness, intimate domestic warmth with an undertow of loss"
   },
   {
-   "name": "感傷",
+   "name": "Wistful",
    "motion": "still",
    "delta": "wistful melancholic mood, faded warm light, love laced with grief"
   },
   {
-   "name": "安睡溫柔",
+   "name": "Tender Sleep",
    "motion": "still",
-   "delta": "asleep peacefully — rare exceptional sweetness, calm warm low light, mournful-tender 物哀, a beloved body at rest"
+   "delta": "asleep peacefully — rare exceptional sweetness, calm warm low light, mournful-tender mono no aware, a beloved body at rest"
   }
  ],
  "soft_everyday_light": [
   {
-   "name": "暖陽",
+   "name": "Warm Sun",
    "motion": "still",
    "delta": "warm afternoon sunlight, tender glowing calm"
   },
   {
-   "name": "鄉愁",
+   "name": "Nostalgia",
    "motion": "still",
    "delta": "faded nostalgic film mood, the ache of passing time"
   },
   {
-   "name": "時光",
+   "name": "Passing Time",
    "motion": "still",
    "delta": "the fleeting preciousness of ordinary days, small everyday wonder"
   }
  ],
  "street_in_the_mirror": [
   {
-   "name": "錯位巧合",
+   "name": "Visual Pun",
    "delta": "a deadpan visual pun, a pole, sign or lamp post appearing to grow out of a person's head",
    "motion": "still"
   },
   {
-   "name": "反射層疊",
+   "name": "Layered Reflections",
    "delta": "layers of shop-window and side-mirror reflections stacking another street over the scene",
    "motion": "still"
   },
   {
-   "name": "抓拍不備",
+   "name": "Caught Off Guard",
    "delta": "an ordinary person caught mid-action and unready, sliced by a frame within the frame",
    "motion": "motion"
   }
  ],
  "vivid_garden": [
   {
-   "name": "絢爛",
+   "name": "Resplendent",
    "motion": "still",
    "delta": "dazzling radiant full-spectrum color explosion, festive operatic brilliance"
   },
   {
-   "name": "迷幻",
+   "name": "Psychedelic",
    "motion": "still",
    "delta": "psychedelic dreamlike saturation, hypnotic real color"
   },
   {
-   "name": "濃豔",
+   "name": "Saturated",
    "motion": "still",
    "delta": "dense lush sensual real color, opulent overflowing bloom with a faint edge of decay"
   }
  ],
  "warm_documentary": [
   {
-   "name": "鄉土人情",
+   "name": "Rural Life",
    "motion": "still",
    "delta": "a country person rooted in the land, tender dignified humanism"
   },
   {
-   "name": "勞動",
+   "name": "Labour",
    "motion": "still",
    "delta": "weathered working hands and face, the dignity of labor"
   },
   {
-   "name": "鄉愁",
+   "name": "Nostalgia",
    "motion": "still",
    "delta": "a vanishing way of life, quiet weight of a simple life"
   }
  ],
  "white_leap": [
   {
-   "name": "時尚動感",
+   "name": "Fashion Motion",
    "motion": "motion",
    "delta": "dynamic kinetic fashion movement, energy and joie de vivre"
   },
   {
-   "name": "凝視",
+   "name": "Gaze",
    "motion": "still",
    "delta": "unflinching confrontational gaze, mask stripped to mortal truth, nowhere to hide against the void"
   },
   {
-   "name": "素人肖像",
+   "name": "Plain Portrait",
    "motion": "still",
    "delta": "raw psychological portrait of ordinary working people, weathered honest humanity"
   }
